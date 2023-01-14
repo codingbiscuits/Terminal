@@ -1,11 +1,23 @@
 # Terminal
-Using the Terminal
+Using the Terminal. Command Cheat Sheet.
 
 commands:
+
+`ls` - list files in the current directory
+
+`ls -a or la` - list files, INCLUDING HIDDEN FILES
+
+`ls -l or ll` - list files in a list output format
+
+`ls -al` - list all hidden files in a list output format
+
+`mkdir` - Make a new directory
 
 `cd` - Change Directory.
 
 `rm` - Delete a file in current directory.
+
+`rm -rf` - Remove the folder called and everything in it
 
 `cat` - Print contents of a file
 
