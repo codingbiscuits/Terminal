@@ -15,3 +15,7 @@ commands:
 
 git commands:
 
+`git remote add origin git@github.com:dan/example.git` - Connects local directory to repository in Github.
+
+`git push origin main` - Pushes code to main branch.
+
