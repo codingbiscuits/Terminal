@@ -1,5 +1,5 @@
 # Terminal
-Using the Terminal. Command Cheat Sheet.
+## Using the Terminal. Command Cheat Sheet.
 
 commands:
 
