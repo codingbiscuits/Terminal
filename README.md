@@ -13,6 +13,8 @@ commands:
 
 `mkdir` - Make a new directory
 
+`touch` - Create a new file
+
 `cd` - Change Directory.
 
 `rm` - Delete a file in current directory.
