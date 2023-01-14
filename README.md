@@ -1,7 +1,7 @@
 # Terminal
 ## Using the Terminal. Command Cheat Sheet.
 
-commands:
+### commands:
 
 `ls` - list files in the current directory
 
@@ -27,7 +27,7 @@ commands:
 
 `ssh-keygen -t rsa -b 4096 -C "email@example.com"` - Generate a new SSH key for an email.
 
-git commands:
+### git commands:
 
 `git remote add origin git@github.com:dan/example.git` - Connects local directory to repository in Github.
 
