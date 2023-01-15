@@ -33,3 +33,7 @@
 
 `git push origin main` - Pushes code to main branch.
 
+`git config --global user.name "Bob"` - Changes git user using username Bob.
+
+`git config --global user.email "bob@example.com"` - Changes git user using email.
+
