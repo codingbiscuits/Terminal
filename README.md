@@ -41,3 +41,7 @@
 
 `git config --global user.email "bob@example.com"` - Changes git user email.
 
+`git commit --amend -m "New commit message"` - Edits your last commit message.
+
+`git rebase -i` Interactive menu for rebase.
+
