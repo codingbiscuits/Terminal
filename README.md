@@ -27,6 +27,8 @@
 
 `ssh-keygen -t rsa -b 4096 -C "email@example.com"` - Generate a new SSH key for an email.
 
+`ssh-add ~/.ssh/filename` - Add agent.
+
 ### Git Commands:
 
 `git remote add origin git@github.com:dan/example.git` - Connects local directory to repository in Github.
